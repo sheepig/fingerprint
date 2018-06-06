@@ -1,0 +1,22 @@
+{
+  "name": "fingerprint",
+  "version": "1.0.0",
+  "description": "light personal blog - web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheepig/fingerprint.git"
+  },
+  "author": "sheepig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheepig/fingerprint/issues"
+  },
+  "homepage": "https://github.com/sheepig/fingerprint#readme",
+  "devDependencies": {
+    "webpack": "^4.11.1"
+  }
+}
